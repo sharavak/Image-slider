@@ -81,6 +81,9 @@ h2{
     #head{
         font-size: 1.4rem;
     }
+    .images{
+        width:98%;
+    }
     h2{
         font-size: 1.3rem;
     }
