@@ -53,6 +53,8 @@ a{
     color:black;
     font-family:'Gemunu Libre', sans-serif;
     font-weight:bold;
+    display:inline-block;
+    text-align:center;
 }
 a:hover{
     text-decoration:underline;
@@ -104,5 +106,8 @@ a:hover{
     svg{
         width: 1.2rem;
         height: 1.5rem;
+    }
+    a{
+        font-size:1rem;
     }
 }
