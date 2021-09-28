@@ -47,6 +47,12 @@ h2{
     z-index: 15;
     right: 0px;
 }
+a{
+    text-decoration:none;
+    font-size:1.1rem;
+    color:white;
+    font-family:'Gemunu Libre', sans-serif;
+}
 .preBut{
     position: absolute;
     z-index: 10;
